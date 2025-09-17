@@ -1,0 +1,8 @@
+Plik,Algorytm,Sr. czas (s),Sr. pamiec (MB),Sr. liczba zbiorow
+synthetic_data_bazowy.csv,FPGrowth,0.1246,0.01,98
+synthetic_data_bazowy.csv,Apriori,0.1031,0.00,98
+synthetic_data_bazowy.csv,Eclat,0.1046,0.00,98
+synthetic_data_bazowy.csv,Apriori_Own,10.7423,68.30,98
+synthetic_data_bazowy.csv,Eclat_Own,0.3848,58.68,98
+synthetic_data_bazowy.csv,FPGrowth_Own,97.0689,2.65,98
+
